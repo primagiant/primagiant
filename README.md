@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @primagiant
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning php and python
+- 🌱 I’m currently learning web_development, and Machine Learning
 
 <!---
 primagiant/primagiant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
