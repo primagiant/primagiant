@@ -12,9 +12,3 @@
 <a href="#"><img align="left" alt="Laravel" title="Laravel" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" /></a>
 <a href="#"><img align="left" alt="Kotlin" title="Kotlin" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
 <a href="#"><img align="left" alt="Python" title="Python" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-<br>
-
-### My Github Static
-<a href="https://github.com/primagiant">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=primagiant&show_icons=true&include_all_commits=true&count_private=true"/>
-</a>
