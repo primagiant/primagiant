@@ -5,10 +5,10 @@
 
 ### Skills to learn
 
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
-<a href="#"><img align="left" alt="Laravel" title="Laravel" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" /></a>
-<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
+<a href="#"><img align="left" alt="Laravel" title="Laravel" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" /></a>
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
 <br>
 
 ### My Github Static
