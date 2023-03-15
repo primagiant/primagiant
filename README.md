@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @primagiant
-- 👀 I’m interested in web_programming
-- 🌱 I’m currently learning web_development, and machine_learning
+### 👋 Hi, I’m @primagiant
+- 👀 I’m interested in web_programming, machine_learning, and mobile_development.
+- 🌱 I’m currently learning laravel, vue, and building app with kotlin.
+- ⚡ Fun fact: Penguin is a bird that can't fly, but he swim 🐧 and also do karate.
 
 ### Skills to learn
 
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
+<a href="#"><img align="left" alt="PHP" title="PHP" width="20px" src="https://commons.wikimedia.org/wiki/File:PHP-logo.svg" /></a>
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
 <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
 <br>
 
@@ -14,8 +18,6 @@
 </a>
 
 <!--
-**ptsuardana01/ptsuardana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,5 +25,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
