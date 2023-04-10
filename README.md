@@ -12,5 +12,3 @@
 <a href="#"><img align="left" alt="Laravel" title="Laravel" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" /></a>
 <a href="#"><img align="left" alt="Kotlin" title="Kotlin" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
 <a href="#"><img align="left" alt="Python" title="Python" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-
-[![Primagiant's GitHub stats](https://github-readme-stats.vercel.app/api?username=primagiant)](https://github.com/primagiant/github-readme-stats)
