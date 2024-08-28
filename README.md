@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m @primagiant
 - 👀 I’m interested in web_programming, machine_learning, and mobile_development.
-- 🌱 I’m currently learning laravel, vue, and building app with kotlin.
+- 🌱 I’m currently learning laravel, vue, and building app with kotlin and dart.
 - ⚡ Fun fact: Penguin is a bird that can't fly, but he swim 🐧 and also do karate.
-- 🥇 I can do Javascript, PHP, Python, and Kotlin Programming
+- 🥇 I can do Javascript, PHP, Python, Kotlin, and Dart.
 
 ### Skills to learn
 
